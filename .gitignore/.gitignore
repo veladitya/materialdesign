@@ -1,0 +1,13 @@
+build
+bin
+node_modules
+logs
+target
+.gradle
+
+build/**
+bin/**
+node_modules/**
+logs/*
+*/logs/*
+.gradle/**
